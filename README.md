@@ -1,4 +1,4 @@
-An attempt at remaking pacman for my object oriented programming course.
+My attempt at remaking pacman for my object oriented programming course.
 
 Cover art by me.
 
